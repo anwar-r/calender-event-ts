@@ -34,7 +34,7 @@ To get started with Calender Event Typescript, follow these steps:
     yarn dev
     ```
 
-4. Open your browser and navigate to `http://localhost:3000` to see Calender Event Typescript in action.
+4. Open your browser and navigate to `http://localhost:5173` to see Calender Event Typescript in action.
 
 ## Usage
 
