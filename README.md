@@ -20,7 +20,7 @@ To get started with Calender Event Typescript, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/calender-event-ts.git
+    git clone https://github.com/anwar-r/calender-event-ts.git
     cd calender-event-ts
     ```
 
